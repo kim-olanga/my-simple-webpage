@@ -14,6 +14,7 @@
 # Technology Used.
 - HTML
 - CSS
+- BOOTSTRAP
 - JAVASCRIPT
 
 # Known Bugs.
