@@ -10,9 +10,31 @@ h3 {
 p {
   font-family: sans-serif;
 }
+h2 {
+  color: blueviolet;
+}
 ul {
   line-height: 40px;
 }
 ol {
   line-height: 40px;
+}
+.intro {
+  font-style: italic;
+}
+.author {
+  color: red;
+}
+p .author {
+  font-size: 12px;
+}
+#author{
+  color: brown;
+}
+.line1{
+  margin: 20px;
+  background-color: aqua;
+}
+.glance{
+  color: cadetblue;
 }
