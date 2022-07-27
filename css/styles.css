@@ -1,11 +1,24 @@
 h1 {
   color: blue;
   text-align: center;
+  /* border: 2px solid red; */
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 20px;
+  margin: 20px;
 }
 h3 {
   color: green;
   font-style: italic;
   text-align: center;
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 20px;
+  margin: 20px;
 }
 p {
   font-family: sans-serif;
@@ -41,6 +54,9 @@ p .author {
 .glance{
   color: cadetblue;
 }
-img{
+.img{
   float: right;
+}
+.div{
+  background-color: burlywood;
 }
