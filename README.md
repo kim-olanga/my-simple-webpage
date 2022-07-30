@@ -15,7 +15,6 @@
 - HTML
 - CSS
 - BOOTSTRAP
-- JAVASCRIPT
 
 # Known Bugs.
 - I did not face any bugs simply because I was in the process of revecing what I have been taught before.
